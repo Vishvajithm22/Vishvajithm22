@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20and%20Communication%20Engineering%20Student%20|%20Backend%20Developer%20|%20IoT%20Enthusiast&descAlignY=55&descSize=18"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Vishvajith&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20and%20Communication%20Engineering%20Student%20|%20Backend%20Developer%20|%20IoT%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <h1 align="center">Hi 👋, I'm Vishvajith</h1>
 
