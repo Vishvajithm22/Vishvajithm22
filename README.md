@@ -1,56 +1,67 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Vishvajith&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20and%20Communication%20Engineering%20Student%20|%20Backend%20Developer%20|%20IoT%20Enthusiast&descAlignY=55&descSize=18"/>
-
 <h1 align="center">Hi 👋, I'm Vishvajith</h1>
 
-<h3 align="center">Electronics and Communication Engineering Student at SSN College of Engineering</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Development;Internet+of+Things;Microservices;Problem+Solving" />
+</p>
 
 <p align="center">
-Passionate about Backend Development, Embedded Systems, IoT, and Artificial Intelligence.
+Electronics & Communication Engineering Student at <b>SSN College of Engineering</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. Electronics and Communication Engineering at **SSN College of Engineering**
-- 💻 Interested in Backend Development and REST API Design
-- 🔌 Passionate about Embedded Systems and IoT
-- 🌱 Currently learning Artificial Intelligence, Cloud Computing, and System Design
-- 🚀 Love building real-world software and hardware projects
+- 🎓 B.E. Electronics & Communication Engineering student at **SSN College of Engineering**
+- 💻 Interested in Backend Development, Microservices and Cloud Technologies
+- 🌱 Currently exploring Kubernetes, Distributed Systems and Artificial Intelligence
+- 🚀 Enjoy building scalable software and solving real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishvajithm22&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvajithm22&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishvajithm22&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvajithm22&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Vishvajithm22&theme=github-dark&hide_border=true"/>
@@ -58,28 +69,30 @@ Passionate about Backend Development, Embedded Systems, IoT, and Artificial Inte
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-- 🚀 FastAPI Backend
-- 💰 Expense Tracker
-- 📡 Smart Attendance System using RFID & Fingerprint Authentication
+### 📌 Customer Management Microservice
+- FastAPI
+- PostgreSQL
+- Docker
+- Kubernetes
+- Rancher
+
+### 📌 FinHub
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+### 📌 Smart Attendance System
+- RFID
+- Fingerprint Authentication
+- Firebase
 
 ---
 
-## 🌱 Currently Learning
+# 📫 Connect
 
-- Cloud Computing
-- System Design
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 
----
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/Vishvajithm22
-- LinkedIn: https://www.linkedin.com/in/vishvajith-m-97a6a1305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
----
-
-<p align="center">
-<i>"Building solutions where hardware meets software."</i>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishvajith2310192@ssn.edu.in)
