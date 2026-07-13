@@ -55,29 +55,27 @@ Electronics & Communication Engineering Student at <b>SSN College of Engineering
 
 # 🚀 Featured Projects
 
-## 📌 [Customer Management Microservice](https://github.com/Vishvajithm22/REPOSITORY_NAME)
+## 📌 [Customer Management Microservice](https://github.com/Vishvajithm22/customer_service)
 
-RESTful Customer Management Microservice built with **FastAPI**, **PostgreSQL**, **Docker**, **Kubernetes**, and **Rancher**.
+RESTful Customer Management Microservice built using **FastAPI**, **PostgreSQL**, **Docker**, **Kubernetes**, and **Rancher**.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishvajithm22/REPOSITORY_NAME)
-
----
-
-## 📌 [FinHub – Expense Management](https://github.com/Vishvajithm22/REPOSITORY_NAME)
-
-Full-stack expense management application built using **React**, **Node.js**, **Express.js**, and **MongoDB**.
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishvajithm22/REPOSITORY_NAME)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishvajithm22/customer_service)
 
 ---
 
-## 📌 [Smart Attendance System](https://github.com/Vishvajithm22/REPOSITORY_NAME)
+## 📌 [FinHub – Expense Tracker](https://github.com/Vishvajithm22/expense-tracker)
 
-IoT-based attendance management system using **RFID**, **Fingerprint Authentication**, and **Firebase**.
+A full-stack expense management application built using **React**, **Node.js**, **Express.js**, and **MongoDB** with authentication and group expense management.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishvajithm22/REPOSITORY_NAME)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishvajithm22/expense-tracker)
 
 ---
+
+## 📌 [Smart Attendance System](https://github.com/shri-ram8/smart-attendance-using-rfid--fingerprint-authentication-)
+
+An IoT-based attendance management system using **RFID**, **Fingerprint Authentication**, and **Firebase** for real-time attendance tracking.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shri-ram8/smart-attendance-using-rfid--fingerprint-authentication-)
 
 # 🔥 GitHub Streak
 
